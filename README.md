@@ -1,5 +1,5 @@
 ### Yonsei University, Dept. of Computer Science & Dept. of Mathematics
-### I am HoHyunFan
+### rm -rf .git
 <!--
 **yonsei-ConU/yonsei-ConU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
